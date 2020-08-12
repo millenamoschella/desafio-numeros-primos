@@ -1,0 +1,13 @@
+body {
+    background-color: #2078ab;
+        font-family: 'Muli',
+        sans-serif
+}
+
+.resultado,
+h1,
+p {
+    font-size: 16px;
+    color: #2078ab;
+}
+
